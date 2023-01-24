@@ -352,7 +352,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1981871214581157752, guid: b63243d0867f4d743837bc714fe20931, type: 3}
       propertyPath: m_Name
-      value: SwitchOff (2)
+      value: ManualSwitch
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1981871214581157700, guid: b63243d0867f4d743837bc714fe20931, type: 3}
@@ -533,7 +533,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4000013844772022, guid: 2d2bd5501100bf648ac0b2375f6ec0b3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.823324
+      value: -1.9
       objectReference: {fileID: 0}
     - target: {fileID: 4000013844772022, guid: 2d2bd5501100bf648ac0b2375f6ec0b3, type: 3}
       propertyPath: m_LocalPosition.z
@@ -638,7 +638,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1981871214581157752, guid: b63243d0867f4d743837bc714fe20931, type: 3}
       propertyPath: m_Name
-      value: SwitchOff
+      value: AutoSwitch
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b63243d0867f4d743837bc714fe20931, type: 3}
